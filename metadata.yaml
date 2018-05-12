@@ -1,0 +1,41 @@
+_repo: Ancestors--A-Novel_31858
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31858-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Atherton, Gertrude Franklin Horn
+    aliases:
+    - Horn, Gertrude Franklin
+    - Lin, Frank
+    birthdate: 1857
+    deathdate: 1948
+    gutenberg_agent_id: '263'
+    url: http://www.gutenberg.org/2009/agents/263
+    wikipedia: http://en.wikipedia.org/wiki/Gertrude_Atherton
+description: Title; Contents; PART I; Chapter I; Chapter II; Chapter III; Chapter
+  IV; Chapter V; Chapter VI; Chapter VII; Chapter VIII; Chapter IX; Chapter X; Chapter
+  XI; Chapter XII; Chapter XIII; Chapter XIV; Chapter XV; Chapter XVI; Chapter XVII;
+  Chapter XVIII; Chapter XIX; PART II; Chapter I; Chapter II; Chapter III; Chapter
+  IV; Chapter V; Chapter VI; Chapter VII; Chapter VIII; Chapter IX; Chapter X; Chapter
+  XI; Chapter XII; Chapter XIII; Chapter XIV; Chapter XV; Chapter XVI; Chapter XVII;
+  Chapter XVIII; Chapter XIX; Chapter XX; Chapter XXI; Chapter XXII; Chapter XXIII;
+  Chapter XXIV; Chapter XXV
+gutenberg_issued: '2010-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31858'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British -- United States -- Fiction'
+- !lcsh 'Political fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'California -- Fiction'
+- !lcc 'PS'
+title: 'Ancestors: A Novel'
+url: http://www.gutenberg.org/ebooks/31858
